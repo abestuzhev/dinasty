@@ -113,16 +113,6 @@
               <item name="dinasty" type="b2602c69:ProjectViewProjectNode" />
               <item name="dinasty" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="dinasty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dinasty" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dinasty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dinasty" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -161,16 +151,15 @@
       <workItem from="1531302347625" duration="13056000" />
       <workItem from="1531405216002" duration="2470000" />
       <workItem from="1531407785325" duration="7113000" />
-      <workItem from="1531422350258" duration="2258000" />
+      <workItem from="1531422350258" duration="2861000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24897000" />
+    <option name="totallyTimeSpent" value="25500000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0738699" />
       <window_info anchor="bottom" id="TODO" order="6" />
